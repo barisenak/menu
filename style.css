@@ -1,0 +1,21 @@
+.wrapper {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin: 0 auto;
+}
+
+.styleFirstFloor {
+    background-color: rgb(126, 205, 241);
+    width: 20%;
+}
+
+/* .styleFirstFloor:hover {
+    cursor: pointer;
+    background-color: rgb(111, 176, 179);
+} */
+
+.styleSecondFloor {
+    background-color: rgb(126, 205, 241);
+
+}
